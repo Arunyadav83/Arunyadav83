@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arunyadav83
 - 👀 I’m interested in Learning New things 
-- 🌱 I’m currently learning ReactJs
-- 💞️ I’m looking to collaborate on Software Developinh
+- 🌱 I’m currently learning ReactJS and Javascript
+- 💞️ I’m looking to collaborate on Software Developer 
 - 📫 How to reach me through linkedin
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: .....
